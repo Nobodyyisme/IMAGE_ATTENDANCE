@@ -1,0 +1,29 @@
+# Ignore Jupyter notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Ignore virtual environment folder
+t_env/
+
+# Ignore compiled model and encoders
+*.joblib
+*.onnx
+
+# Ignore test outputs
+output.mp4
+confusion_matrix.png
+
+# Ignore numpy data files
+*.npy
+
+# Ignore test/processed folders if they contain large data
+test/dataset/
+test/raw_images/
+test/trained_xy/
+
+# Ignore intermediate or raw media
+raw_videos/
+raw_images/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
