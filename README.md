@@ -94,13 +94,3 @@ predict_from_video("raw_videos/M.mp4", output_path="output.mp4")
 - onnxruntime
 
 ---
-
-## 👩‍💻 Author
-
-Maharshi — [GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-profile)
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
